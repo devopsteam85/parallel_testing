@@ -36,7 +36,7 @@ CLASS ZCL_DEVOPS_TESTING IMPLEMENTATION.
     Write 'Test Build2'.
     Write 'Test Complete 1'.
     Write 'Test Complete2'.
-    * test12
+    * test123
      "Please write the code inside the method block.
   ENDMETHOD.
 
